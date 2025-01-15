@@ -1,4 +1,4 @@
-## callie wharton <3
+## .･:*:･ﾟ’✫
 
 competitive crossword solver
 
