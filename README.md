@@ -2,6 +2,7 @@
 she/her
 
 competitive crossword solver
+
 learning python + html !!
 
 <!--
