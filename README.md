@@ -1,4 +1,8 @@
-## Hi there 👋
+## callie wharton <3
+she/her
+
+competitive crossword solver
+learning python + html !!
 
 <!--
 **calliewharton/calliewharton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
