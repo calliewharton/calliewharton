@@ -1,5 +1,4 @@
 ## callie wharton <3
-she/her
 
 competitive crossword solver
 
