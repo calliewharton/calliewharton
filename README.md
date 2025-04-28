@@ -1,8 +1,8 @@
 ## .･:*:･ﾟ’✫
 
-competitive crossword solver
+crossword speedsolver / constructor 
 
-learning python + html !!
+learning c# + javascript !!
 
 <!--
 **calliewharton/calliewharton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
